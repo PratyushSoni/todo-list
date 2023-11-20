@@ -14,8 +14,8 @@ export default defineConfig({
         base: "/todo-ts/", /* yes, we need to add `base` separately for PWA config.  */
         registerType: 'autoUpdate',
         manifest:{
-          name: 'ToDude: todo app made with TypeScript',
-          short_name: 'ToDude',
+          name: 'ToDo List: todo app made with TypeScript',
+          short_name: 'ToDo',
           description: 'A simple todo-app made using TS, latest CSS features, and Vite',
           theme_color: '#195EC6',
           icons: [

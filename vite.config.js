@@ -7,11 +7,11 @@ export default defineConfig({
       host: '0.0.0.0',
     },
     
-    // base:"/todo-ts/",
+    base:"/todo-ts/",
 
     plugins: [
       VitePWA({ 
-        // base: "/todo-ts/", /* yes, we need to add `base` separately for PWA config.  */
+        base: "/todo-ts/", /* yes, we need to add `base` separately for PWA config.  */
         registerType: 'autoUpdate',
         manifest:{
           name: 'ToDo List: todo app made with TypeScript',

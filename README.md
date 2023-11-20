@@ -7,7 +7,6 @@ This project is a task manager application built to help users organize their da
 - Filter tasks based on their completion status.
 - Beautiful and responsive UI with pleasing animations, and 🔆light/🌙dark mode
 - Task Management: Add, remove, and update tasks effortlessly.
-- Hyper Component Integration: Utilizes the Hyper Component system for modular UI design.
 - Filter Box: Allows users to filter tasks based on their status.
 - Responsive Design: Adapts to different screen sizes for a seamless user experience.
 

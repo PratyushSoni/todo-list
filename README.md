@@ -1,5 +1,5 @@
 ## Introduction
-This project is a task manager application built to help users organize their daily tasks efficiently. It provides a clean and intuitive interface for adding, updating, and managing tasks with ease.
+This project is a task manager application built to help users organize their daily tasks efficiently. It provides a clean interface for adding, updating, and managing tasks with ease.
 
 ## 🔑 Key features 
 - Add, delete and modify tasks.
